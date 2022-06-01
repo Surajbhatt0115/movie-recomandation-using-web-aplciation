@@ -1,0 +1,27 @@
+body{
+    background-image: url("movieimg.JPG");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+/*
+table,tr,td{
+    border:1px solid black;
+        border:collapse;
+}*/
+table{
+    width: 100%;
+    
+    border:1px solid black;
+    border-collapse: collapse;
+    background-color:#fd79a8;
+}
+tr,th,tbody,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    
+
+}
+h1{
+    text-align: center;
+}
